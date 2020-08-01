@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Yoappre/static/css/main.1b2a3c77.chunk.css",
+    "main.js": "/Yoappre/static/js/main.8d1de42c.chunk.js",
+    "main.js.map": "/Yoappre/static/js/main.8d1de42c.chunk.js.map",
+    "runtime-main.js": "/Yoappre/static/js/runtime-main.c8ea7d22.js",
+    "runtime-main.js.map": "/Yoappre/static/js/runtime-main.c8ea7d22.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/Yoappre/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.e830befe.chunk.js": "/Yoappre/static/js/2.e830befe.chunk.js",
+    "static/js/2.e830befe.chunk.js.map": "/Yoappre/static/js/2.e830befe.chunk.js.map",
+    "index.html": "/Yoappre/index.html",
+    "precache-manifest.a16a35fdae75f3b5effba6f282ab811e.js": "/Yoappre/precache-manifest.a16a35fdae75f3b5effba6f282ab811e.js",
+    "service-worker.js": "/Yoappre/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/Yoappre/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.1b2a3c77.chunk.css.map": "/Yoappre/static/css/main.1b2a3c77.chunk.css.map",
+    "static/js/2.e830befe.chunk.js.LICENSE.txt": "/Yoappre/static/js/2.e830befe.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Yoappre/static/media/image.a91d3c27.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8ea7d22.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.e830befe.chunk.js",
+    "static/css/main.1b2a3c77.chunk.css",
+    "static/js/main.8d1de42c.chunk.js"
+  ]
+}
