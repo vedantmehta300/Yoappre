@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("image.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.hoho {
+  background-color: rgba(187, 27, 27, 0.383);
+  border-color: black;
+  border-width: px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 17px;
+  margin-left: 5px;
+  margin-top: 5px;
+  cursor: pointer;
+  border-radius: 9px;
+  height: auto;
+  transition: transform 0.2s;
+  width: 100%;
+  min-height: 50%;
+}
+
+.teeth {
+  background-color: rgba(121, 6, 6, 0.157);
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.cardm {
+  box-shadow: 0 4px 8px 0 rgba(92, 3, 3, 0.315);
+  transition: 0.3s;
+  display: inline-block;
+  margin: 45px;
+  margin-top: 7px;
+  height: auto;
+  width: 25.5%;
+}
+.cardm:hover {
+  transform: scale(1.1);
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+/* On screens that are 992px wide or less, go from four columns to two columns */
+@media screen and (max-width: 850px) {
+  .cardm {
+    width: 45%;
+    display: inline-block;
+  }
+}
+@media screen and (max-width: 600px) {
+  .cardm {
+    width: 60%;
+    display: inline-block;
+  }
+}
+
+/* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  .cardm {
+    width: 80%;
+  }
+}
+
+.container1 {
+  padding: 2px 16px;
+}
